@@ -1,0 +1,61 @@
+# LeetCode Solutions
+
+A collection of my **accepted LeetCode solutions in Java**, maintained as I continue practicing Data Structures & Algorithms and improving my problem-solving skills.
+
+## 📌 About This Repository
+
+This repository contains my accepted LeetCode solutions, automatically synced using **LeetHub**.
+
+The goal is to:
+
+* 🧠 Strengthen DSA fundamentals
+* 💻 Improve problem-solving skills
+* 📈 Track my LeetCode progress
+* 🔍 Understand different algorithms and data structures
+* 🚀 Prepare for technical interviews and placements
+
+## ☕ Language
+
+All solutions in this repository are written in:
+
+**Java**
+
+## 📚 Topics Covered
+
+As I progress, the repository will include problems from:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Sorting
+* Recursion
+* Backtracking
+* Trees
+* Binary Search Trees
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* Bit Manipulation
+
+## 📊 Progress
+
+I continuously solve LeetCode problems and update this repository with new accepted solutions.
+
+**Language:** Java
+**Platform:** LeetCode
+**Sync:** LeetHub
+
+## 🎯 Goal
+
+> Consistently solve problems, strengthen DSA concepts, and become better at problem solving for technical interviews and placements.
+
+This repository represents my ongoing **DSA learning and problem-solving journey**.
+
+---
+
+⭐ Feel free to explore the solutions and star the repository if you find it useful.
