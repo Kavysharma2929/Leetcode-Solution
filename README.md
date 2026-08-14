@@ -65,6 +65,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -84,4 +85,12 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
