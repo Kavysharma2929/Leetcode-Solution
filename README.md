@@ -67,6 +67,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Greedy
@@ -106,4 +107,28 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 <!---LeetCode Topics End-->
