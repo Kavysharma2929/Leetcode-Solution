@@ -148,6 +148,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -178,4 +180,16 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
