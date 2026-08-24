@@ -65,6 +65,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -77,6 +78,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -157,6 +159,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
