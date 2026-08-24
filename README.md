@@ -75,6 +75,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
