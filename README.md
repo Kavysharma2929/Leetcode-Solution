@@ -222,4 +222,20 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
