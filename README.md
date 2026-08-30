@@ -123,10 +123,12 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
