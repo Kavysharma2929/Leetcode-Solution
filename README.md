@@ -240,11 +240,13 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -254,11 +256,13 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
