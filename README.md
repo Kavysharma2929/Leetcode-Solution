@@ -95,6 +95,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -112,6 +113,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+| [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,6 +121,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0128-longest-consecutive-sequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -140,6 +143,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 ## Sliding Window
