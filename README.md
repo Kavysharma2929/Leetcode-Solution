@@ -197,6 +197,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,4 +320,16 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
