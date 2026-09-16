@@ -68,6 +68,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -156,6 +157,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0007-reverse-integer/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -196,6 +198,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Dynamic Programming
