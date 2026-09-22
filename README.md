@@ -268,6 +268,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -286,6 +287,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -293,6 +295,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
