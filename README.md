@@ -84,6 +84,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -125,6 +126,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0209-minimum-size-subarray-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +245,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
