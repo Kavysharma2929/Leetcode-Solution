@@ -79,6 +79,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
+| [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -109,6 +110,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
@@ -212,6 +214,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -352,6 +355,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
