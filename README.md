@@ -73,6 +73,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
@@ -221,6 +222,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Backtracking
