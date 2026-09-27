@@ -154,6 +154,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
@@ -217,6 +218,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,4 +373,8 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0223-rectangle-area/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
