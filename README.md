@@ -211,6 +211,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -349,6 +350,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
