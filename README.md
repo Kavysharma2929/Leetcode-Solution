@@ -92,6 +92,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
