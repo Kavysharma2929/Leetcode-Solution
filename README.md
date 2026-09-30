@@ -69,6 +69,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0137-single-number-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
@@ -190,6 +191,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0137-single-number-ii/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
