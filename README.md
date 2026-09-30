@@ -156,6 +156,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -221,6 +222,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
