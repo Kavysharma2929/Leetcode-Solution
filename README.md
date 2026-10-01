@@ -182,6 +182,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0223-rectangle-area](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0223-rectangle-area/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0390-elimination-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0390-elimination-game/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
@@ -361,6 +362,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0390-elimination-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0390-elimination-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
