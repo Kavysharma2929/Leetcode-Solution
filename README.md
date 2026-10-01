@@ -156,6 +156,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -222,6 +223,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -388,6 +390,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
