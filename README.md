@@ -101,6 +101,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
@@ -161,6 +162,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0032-longest-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
@@ -231,6 +233,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0071-simplify-path](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0901-online-stock-span/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -246,6 +249,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0213-house-robber-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +409,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0020-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
