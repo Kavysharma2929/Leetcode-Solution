@@ -90,6 +90,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -302,6 +303,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | ------- | ------- |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
@@ -423,4 +425,5 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
