@@ -92,6 +92,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -394,6 +395,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
