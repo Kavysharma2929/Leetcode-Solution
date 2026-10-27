@@ -79,6 +79,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -138,6 +139,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0202-happy-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -149,6 +151,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0209-minimum-size-subarray-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
