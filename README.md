@@ -91,6 +91,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
@@ -155,6 +156,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0560-subarray-sum-equals-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
