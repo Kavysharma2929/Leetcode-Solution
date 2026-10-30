@@ -65,6 +65,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -159,6 +160,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
