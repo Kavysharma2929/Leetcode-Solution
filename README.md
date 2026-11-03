@@ -101,6 +101,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
@@ -213,6 +214,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
