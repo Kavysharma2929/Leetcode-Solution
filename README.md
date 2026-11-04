@@ -78,6 +78,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0213-house-robber-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -210,6 +211,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0365-water-and-jug-problem](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0390-elimination-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0390-elimination-game/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
@@ -230,12 +232,14 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 ## Impartial Game
@@ -276,6 +280,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0213-house-robber-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -383,6 +388,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -409,6 +415,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0390-elimination-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
