@@ -92,6 +92,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -129,6 +130,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1094-car-pooling](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1094-car-pooling/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0567-permutation-in-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -313,6 +316,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0713-subarray-product-less-than-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
