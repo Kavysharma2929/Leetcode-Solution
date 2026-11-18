@@ -217,6 +217,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0390-elimination-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0390-elimination-game/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2029-stone-game-ix/) | Medium |
@@ -287,6 +288,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -424,6 +426,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0025-reverse-nodes-in-k-group](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0390-elimination-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -486,4 +489,8 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
