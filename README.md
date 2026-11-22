@@ -196,6 +196,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1927-sum-game/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
