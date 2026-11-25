@@ -86,6 +86,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0561-array-partition](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0561-array-partition/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0853-car-fleet](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -295,6 +296,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0509-fibonacci-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
