@@ -214,6 +214,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0007-reverse-integer/) | Medium |
+| [0062-unique-paths](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0062-unique-paths/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0202-happy-number/) | Easy |
 | [0223-rectangle-area](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0223-rectangle-area/) | Medium |
@@ -288,6 +289,7 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | [0022-generate-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0055-jump-game](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
@@ -499,4 +501,8 @@ This repository represents my ongoing **DSA learning and problem-solving journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Kavysharma2929/Leetcode-Solution/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
